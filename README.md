@@ -23,7 +23,7 @@ telegram: [ya_za_ya](https://t.me/ya_za_ya)
 ## Мои навыки:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,py,react,nextjs,vercel,dotnet,nodejs,express,postman,figma,arduino,babel,bootstrap,jest,git,vite,stackoverflow,sass,postgres,raspberrypi,mongodb,materialui,linux,github,gitlab,firebase,docker,svg,webpack,vscode,visualstudio,vim,xd,ae,ps,ai,pr,ableton&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,py,react,nextjs,vercel,dotnet,nodejs,express,postman,figma,arduino,babel,bootstrap,jest,git,vite,stackoverflow,sass,postgres,raspberrypi,mongodb,materialui,linux,github,gitlab,firebase,docker,svg,webpack,azure,vscode,visualstudio,vim,xd,ae,ps,ai,pr,ableton&theme=dark&perline=7)](https://skillicons.dev)
 
 
 
