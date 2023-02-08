@@ -10,14 +10,13 @@ telegram: [ya_za_ya](https://t.me/ya_za_ya)
 
 
 <p>
-
     <img  align="center" width ="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazayalks&show_icons=true&locale=en&layout=compact" alt="yazayalks" />
 </p>
+
 <p>
-
     <img  align="center" width ="400" height="200" src="https://github-readme-stats.vercel.app/api?username=yazayalks&show_icons=true&locale=en" alt="yazayalks" />
-</p>
 
+</p>
 
 
 
