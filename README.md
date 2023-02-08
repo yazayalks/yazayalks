@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Привет, меня зовут Кирилл, я frontend разработчик</h1>
 
-<!--
-**yazayalks/yazayalks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="text-align: center;">
 
-Here are some ideas to get you started:
+## Как со мной связаться 
+mail: [lysak_kirill@mail.ru]( https://e.mail.ru/compose/?to=lysak_kirill@mail.ru)<br/>
+insta: [&#95;&#95;&#95;ya_za_ya&#95;&#95;&#95;](https://www.instagram.com/___ya_za_ya___)<br/>
+ vk: [ya_za_ya](https://vk.com/ya_za_ya)<br/>
+telegram: [ya_za_ya](https://t.me/ya_za_ya)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<div style="text-align: center;">
+<p>
+    <img  align="center" width ="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazayalks&show_icons=true&locale=en&layout=compact" alt="yazayalks" />
+</p>
+
+<p>
+    <img  align="center" width ="400" height="200" src="https://github-readme-stats.vercel.app/api?username=yazayalks&show_icons=true&locale=en" alt="yazayalks" />
+
+</p>
+</div>
+
+
+<h3 align="center">Мои навыки:</h3>
+<div style="text-align: center;">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,py,react,nextjs,vercel,dotnet,nodejs,express,postman,figma,arduino,babel,bootstrap,jest,git,vite,stackoverflow,sass,postgres,raspberrypi,mongodb,materialui,linux,github,gitlab,firebase,docker,svg,webpack,vscode,visualstudio,vim,xd,ae,ps,ai,pr,ableton&theme=dark&perline=7)](https://skillicons.dev)
+
+</div>
+
+
+
